@@ -1,4 +1,7 @@
-
+---
+title: "Awesome Hockey"
+date: 2025-05-01
+---
 
 write up some cool explinaton of my coding project
 
