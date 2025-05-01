@@ -16,4 +16,4 @@ def things(array:int):
 
 Here is the code!
 
-![cool pic of my code!](https://github.com/user-attachments/assets/de43cba2-66ee-4b8d-8fb9-579ec474af75)
+
