@@ -28,5 +28,5 @@ I love networking with other enthusiasts! Feel free to reach out:
 
 Let's collaborate and make great things happen!
 
-![fun video](https://www.youtube.com/watch?v=JZ-utvfgK8Q)
+<iframe title="No Gods No Masters A History of Anarchism Part 1 of 3" src="https://www.youtube.com/embed/JZ-utvfgK8Q?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 4 / 3; width: 100%; height: 100%;"></iframe>
 
