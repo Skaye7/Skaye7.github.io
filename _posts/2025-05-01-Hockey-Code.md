@@ -13,6 +13,8 @@ def things(array:int):
   return beans
 
 ```
+C:\Users\stkay\Computer Science 1101 Spring 2025\gradient.jpg
+
 
 Here is the code!
 
