@@ -14,5 +14,4 @@ def things(array:int):
 
 ```
 
-
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/2a7abd3d-0183-48b4-9949-87c2cb245745" />
+![Alt text](/assets/gradient.jpg)
