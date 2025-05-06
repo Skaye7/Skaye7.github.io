@@ -15,5 +15,5 @@ def things(array:int):
 ```
 
 Here is the code!
-![description](assets/gradient.jpg)
+![alt text](../assets/gradient.jpg)
 
