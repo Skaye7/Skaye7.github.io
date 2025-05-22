@@ -32,7 +32,8 @@ Upon entering the park, Percy’s eyes widened in wonder. The world around him w
 - **Next Adventure**: The **Mountain of Mischief** ⛰️  
    Percy bounded up the little hill, taking in the view. From the top, he spotted a group of dogs training at the obstacle course. His competitive spirit kicked in!
 
-### The Obstacle Course Showdown 🏆
+### The Obstacle Course Showdown 🏆![output](https://github.com/user-attachments/assets/2c01ec94-7d2f-40d7-acea-a4843414cdc4)
+
 
 With a pep in his step, Percy dashed towards the course. He eyed the **tunnels**, **jumps**, and **zig-zag poles** like a seasoned pro. 
 
