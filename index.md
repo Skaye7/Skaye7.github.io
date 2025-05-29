@@ -27,5 +27,5 @@ I love networking with other enthusiasts! Feel free to reach out:
 
 Let's collaborate and make great things happen!
 
-"C:\Users\stkay\Downloads\pngimg.com - welcome_PNG97.png"
+<img src=""C:\Users\stkay\Downloads\pngimg.com - welcome_PNG97.png" alt="My uploaded image" width="300">
 
