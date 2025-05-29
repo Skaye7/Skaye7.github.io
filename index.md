@@ -13,7 +13,7 @@ Welcome to my corner of the internet! I'm a Computer Science student with a pass
 
 - 🌍 **Location**: Currently studying in [University of Denver]
 - 👨‍🎓 **Major**: Kinesiology and Sport Studies
-- 💻 **Languages**: Python, Java,
+- 💻 **Languages**: Python, Java
 - 🚀 **Interests**: Artificial Intelligence, Web Development, Game Design, Planning Events, DU Programming Board (DUPB)
 
 ---
@@ -22,8 +22,7 @@ Welcome to my corner of the internet! I'm a Computer Science student with a pass
 
 I love networking with other enthusiasts! Feel free to reach out:
 
-- 📧 Email: [spencer@example.com](mailto:spencer@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/spencer](https://linkedin.com/in/spencer)
+- 📧 Email: stkaye05@gmail.com or spencer.kaye@du.edu
 - 🌐 GitHub: [github.com/spencer](https://github.com/spencer)
 
 Let's collaborate and make great things happen!
