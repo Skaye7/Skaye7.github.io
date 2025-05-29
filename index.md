@@ -7,6 +7,8 @@ title: Welcome to my blog
 
 Welcome to my corner of the internet! I'm a Computer Science student with a passion for coding, problem-solving, and exploring the endless possibilities of technology. Whether I'm developing software, tinkering with hardware, or diving into the world of algorithms, I'm always eager to learn and grow.
 
+
+<img src=""C:\Users\stkay\Downloads\pngimg.com - welcome_PNG97.png" alt="My uploaded image" width="300">
 ---
 
 ## About Me
