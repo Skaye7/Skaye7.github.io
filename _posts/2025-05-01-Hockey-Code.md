@@ -1,5 +1,5 @@
 ---
-title: "Cool Code"
+title: "Awesome Hockey"
 date: 2025-05-01
 ---
 
