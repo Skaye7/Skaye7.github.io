@@ -12,8 +12,8 @@ dudraw.setcanvassize(300,300)
 def things(array:int):
   return beans
 
-```
-**Gradient Image:**
+Gradient Image:
+
 ![Alt text](/assets/gradient.jpg)
 
 
