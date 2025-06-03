@@ -10,17 +10,13 @@ Colorful Dots Image:
 
 
 
-
-
 Gradient Image:
 
 <img width="448" alt="Screenshot 2025-05-01 171123" src="https://github.com/user-attachments/assets/b8af4dad-3abf-4499-b1a8-eeeeb4e3bc3c" />
 
 
+Colorful Squares:
 
-
-
-
-
+<img width="448" alt="Screenshot 2025-05-24 123157" src="https://github.com/user-attachments/assets/71ec7882-5cc3-421a-ad98-a12bf4c8b177" />
 
 
