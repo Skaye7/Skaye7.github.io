@@ -23,4 +23,4 @@ Gradient Image:
 
 
 
-<iframe width="1111" height="625" src="https://www.youtube.com/embed/n9V2fkk0G7k" title="Bruce Springsteen &amp; The E Street Band  - Thunder Road - Uncasville, CT-  4.12.24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
