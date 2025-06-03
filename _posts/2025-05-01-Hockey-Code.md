@@ -13,7 +13,7 @@ def things(array:int):
   return beans
 
 ```
-
+**Gradient Image:**
 ![Alt text](/assets/gradient.jpg)
 
 
