@@ -6,6 +6,7 @@ This is a story about the dog Percy
 
 
 ![jen_output](https://github.com/user-attachments/assets/c64eba4e-67e5-4e10-af51-aa7162cd0b56)
+By Jen
 
 # Percy the Adventurous Pooch 🐾
 
