@@ -1,5 +1,5 @@
 ---
-title: "Awesome Hockey"
+title: "Awesome Projects"
 date: 2025-05-01
 ---
 **Gallery of Projects:**
