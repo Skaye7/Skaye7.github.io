@@ -12,7 +12,7 @@ Welcome to my corner of the internet! I'm a Computer Science student with a pass
 
 - 🌍 **Location**: Currently studying at University of Denver
 - 👨‍🎓 **Major**: Kinesiology and Sport Studies
-- 💻 **Languages**: Python, Java
+- 💻 **Languages**: Python, JavaScript
 - 🚀 **Interests**: Artificial Intelligence, Web Development, Game Design, Planning Events, DU Programming Board (DUPB)
 
 ---
