@@ -19,9 +19,5 @@ Welcome to my corner of the internet! I'm a Computer Science student with a pass
 
 ## Connect with Me
 
-I love networking with other enthusiasts! Feel free to reach out:
-
-- 📧 Email: stkaye05@gmail.com or spencer.kaye@du.edu
-- 🌐 GitHub: [github.com/spencer](https://github.com/spencer)
-
+- 📧 DU Email: spencer.kaye@du.edu 
 Let's collaborate and make great things happen!
