@@ -19,5 +19,6 @@ Welcome to my corner of the internet! I'm a Computer Science student with a pass
 
 ## Connect with Me
 
-- 📧 DU Email: spencer.kaye@du.edu 
+- 📧 DU Email: spencer.kaye@du.edu
+  
 Let's collaborate and make great things happen!
