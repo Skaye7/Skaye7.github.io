@@ -19,8 +19,13 @@ Colorful Squares:
 
 <img width="448" alt="Screenshot 2025-05-24 123157" src="https://github.com/user-attachments/assets/71ec7882-5cc3-421a-ad98-a12bf4c8b177" />
 
+
 Hockey Stick and Net:
+
 ![output](https://github.com/user-attachments/assets/2c01ec94-7d2f-40d7-acea-a4843414cdc4)
+
+
+
 
 Optical Illusion (by ChatGPT):
 
