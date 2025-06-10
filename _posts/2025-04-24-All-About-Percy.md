@@ -4,6 +4,8 @@ date: 2025-04-24
 ---
 This is a story about the dog Percy, as created by ChatGPT.
 
+At the bottom, I have included a photo of my actual dog, Percy.
+
 
 ![jen_output](https://github.com/user-attachments/assets/c64eba4e-67e5-4e10-af51-aa7162cd0b56)
 By Jen
@@ -68,3 +70,7 @@ With his belly full and heart even fuller, Percy knew this was just one of many 
 --- 
 
 So, what will Percy’s next quest be? Only time will tell! 🐶✨
+
+
+<img width="479" alt="Percy_Kaye" src="https://github.com/user-attachments/assets/03e3804f-3250-4d67-bdb3-a67a1a1ffcd9" />
+
