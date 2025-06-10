@@ -8,7 +8,7 @@ At the bottom, I have included a photo of my actual dog, Percy.
 
 
 ![jen_output](https://github.com/user-attachments/assets/c64eba4e-67e5-4e10-af51-aa7162cd0b56)
-By Jen
+Coding Project by Jen
 
 # Percy the Adventurous Pooch 🐾
 
