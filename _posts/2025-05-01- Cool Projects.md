@@ -4,7 +4,7 @@ date: 2025-05-01
 ---
 **Gallery of Projects:**
 
-The first three projects were made by me, using Visual Studio Code The last one however, was made by ChatGPT, based on instructions I gave it.
+The first three projects were made by me, using Visual Studio Code. The last one however, was made by ChatGPT, based on instructions I gave it.
 
 Colorful Dots Image:
 
