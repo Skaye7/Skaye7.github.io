@@ -2,7 +2,7 @@
 title: "All About Percy"
 date: 2025-04-24
 ---
-This is a story about the dog Percy
+This is a story about the dog Percy, as created by ChatGPT.
 
 
 ![jen_output](https://github.com/user-attachments/assets/c64eba4e-67e5-4e10-af51-aa7162cd0b56)
