@@ -3,7 +3,7 @@ title: "Awesome Projects"
 date: 2025-05-01
 ---
 **Gallery of Projects:**
-
+The first three projects were made by me, but the last one was made by ChatGPT.
 Colorful Dots Image:
 
 <img width="372" alt="Screenshot 2025-04-25 093129" src="https://github.com/user-attachments/assets/c8723345-adb2-4c0f-96ca-b0a33c2761f3" />
