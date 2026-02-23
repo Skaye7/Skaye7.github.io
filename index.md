@@ -4,7 +4,7 @@ title: Welcome to my blog
 
 # Hello, I'm Spencer! 👋  
 
-Welcome to my corner of the internet! I'm a Computer Science student with a passion for coding, problem-solving, and exploring the endless possibilities of technology. I'm always eager to learn and grow.
+Welcome to my corner of the internet! I'm a Kinesiology and Computer Science student with a passion for coding, problem-solving, and exploring the endless possibilities of technology. I'm always eager to learn and grow.
 
 ![pngimg com - welcome_PNG97](https://github.com/user-attachments/assets/fe5f8849-e7cd-4183-8f7e-e66d5663f343)
 
@@ -12,6 +12,7 @@ Welcome to my corner of the internet! I'm a Computer Science student with a pass
 
 - 🌍 **Location**: Currently studying at University of Denver
 - 👨‍🎓 **Major**: Kinesiology and Sport Studies
+- 👨‍🎓 **Minor**: Computer Science
 - 💻 **Languages**: Python, JavaScript
 - 🚀 **Interests**: Artificial Intelligence, Web Development, Game Design, Planning Events, DU Programming Board (DUPB)
 
@@ -19,6 +20,7 @@ Welcome to my corner of the internet! I'm a Computer Science student with a pass
 
 ## Connect with Me
 
+- 📧 Personal Email: stkaye05@gmail.com
 - 📧 DU Email: spencer.kaye@du.edu
   
 Let's collaborate and make great things happen!
